@@ -1,9 +1,12 @@
-## Hi, i'm Pedro henrique👋
+## Oiee, eu sou Pedro Henrique👋
+
+<img width=100% src="./imagem/LinkedIn cover - 1.png"/>
 
 
-
-Eu sou desenvolvedor back-end de 19 anos, apaixonado por códigos, cursando Ciências da computação.
-- Confira meu [Linkedln](linkedin.com/in/pedrofreelas)para saber mais sobre mim
+Eu sou desenvolvedor back-end, apaixonado por códigos e matemática, cursando Ciências da computação.
+- Confira meu [Linkedln](linkedin.com/in/pedrofreelas) para saber mais sobre mim
+- Gosto de aprender e me aventurar em novas aventuras.
+- Em busca de meu primeiro estágio.
 
 <div align="center">  
   
